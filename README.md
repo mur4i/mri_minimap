@@ -1,5 +1,5 @@
 # mri_minimap
- Changes your minimap to creative network styles
+ Changes your minimap to rounded border style
 
 # preview
 ![preview](/preview.png)
